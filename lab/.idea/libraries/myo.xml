@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/osx/myo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

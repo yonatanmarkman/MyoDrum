@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Win32">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/src/main/resources/Win32" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/Win32" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
